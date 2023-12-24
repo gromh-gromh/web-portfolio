@@ -1,0 +1,273 @@
+[
+  
+    {
+
+      "title"    : "Седьмой семестр, ЛР №2",
+      "url"      : "/web-portfolio//sem-7-lr-2/",
+      "category" : "",
+      "year"     : "4",
+      "date"     : "December  7, 2023"
+    } ,
+  
+    {
+
+      "title"    : "Седьмой семестр, ЛР №1",
+      "url"      : "/web-portfolio//sem-7-lr-1/",
+      "category" : "",
+      "year"     : "4",
+      "date"     : "October  1, 2023"
+    } ,
+  
+    {
+
+      "title"    : "Шестой семестр, ЛР №3",
+      "url"      : "/web-portfolio//sem-6-lr-3/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "June 12, 2023"
+    } ,
+  
+    {
+
+      "title"    : "Шестой семестр, ЛР №1 и №2",
+      "url"      : "/web-portfolio//sem-6-lr-1-2/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "June 10, 2023"
+    } ,
+  
+    {
+
+      "title"    : "Шестой семестр, презентация на тему &quot;Корутины в Python&quot;",
+      "url"      : "/web-portfolio//sem-6-corutines-presentation/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "May 19, 2023"
+    } ,
+  
+    {
+
+      "title"    : "Пятый семестр, ЛР №10",
+      "url"      : "/web-portfolio//sem-5-lr-10/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "December 22, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Пятый семестр, ЛР №9",
+      "url"      : "/web-portfolio//sem-5-lr-9/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "December 21, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Пятый семестр, ЛР №8",
+      "url"      : "/web-portfolio//sem-5-lr-8/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "December 15, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Пятый семестр, ЛР №7",
+      "url"      : "/web-portfolio//sem-5-lr-7/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "December  7, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Пятый семестр, ЛР №6",
+      "url"      : "/web-portfolio//sem-5-lr-6/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "October 27, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Пятый семестр, ЛР №5",
+      "url"      : "/web-portfolio//sem-5-lr-5/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "October 21, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Пятый семестр, ЛР №4",
+      "url"      : "/web-portfolio//sem-5-lr-4/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "October 15, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Пятый семестр, презентация на тему &quot;Паттерн Абстрактная Фабрика&quot;",
+      "url"      : "/web-portfolio//sem-5-abstract-factory-presentation/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "October 10, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Пятый семестр, ЛР №3",
+      "url"      : "/web-portfolio//sem-5-lr-3/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "October  3, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Пятый семестр, ЛР №2",
+      "url"      : "/web-portfolio//sem-5-lr-2/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "September 29, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Четвертый семестр, ЛР №3",
+      "url"      : "/web-portfolio//sem-4-lr-3/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "June 12, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Четвертый семестр, ЛР №2.1",
+      "url"      : "/web-portfolio//sem-4-lr-2.1/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "June  6, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Четвертый семестр, ЛР №2",
+      "url"      : "/web-portfolio//sem-4-lr-2/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "May 13, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Четвертый семестр, ЛР №1",
+      "url"      : "/web-portfolio//sem-4-lr-1/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "February 14, 2022"
+    } ,
+  
+    {
+
+      "title"    : "Третий семестр, Результат выполнения всех ЛР",
+      "url"      : "/web-portfolio//sem-3-all/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "November 27, 2021"
+    } ,
+  
+    {
+
+      "title"    : "Третий семестр, ЛР №3",
+      "url"      : "/web-portfolio//sem-3-lr-3/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "November 25, 2021"
+    } ,
+  
+    {
+
+      "title"    : "Третий семестр, ЛР №2",
+      "url"      : "/web-portfolio//sem-3-lr-2/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "October 21, 2021"
+    } ,
+  
+    {
+
+      "title"    : "Третий семестр, ЛР №1",
+      "url"      : "/web-portfolio//sem-3-lr-1/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "September 30, 2021"
+    } ,
+  
+    {
+
+      "title"    : "Второй семестр, ЛР №7",
+      "url"      : "/web-portfolio//sem-3-lr-7/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "May 17, 2021"
+    } ,
+  
+    {
+
+      "title"    : "Второй семестр, ЛР №6",
+      "url"      : "/web-portfolio//sem-3-lr-6/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "May 10, 2021"
+    } ,
+  
+    {
+
+      "title"    : "Второй семестр, ЛР №5",
+      "url"      : "/web-portfolio//sem-3-lr-5/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "April 19, 2021"
+    } ,
+  
+    {
+
+      "title"    : "Второй семестр, ЛР №4",
+      "url"      : "/web-portfolio//sem-3-lr-4/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "April 10, 2021"
+    } ,
+  
+    {
+
+      "title"    : "Второй семестр, ЛР №3",
+      "url"      : "/web-portfolio//sem-3-lr-3/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "April  4, 2021"
+    } ,
+  
+    {
+
+      "title"    : "Второй семестр, ЛР №2",
+      "url"      : "/web-portfolio//sem-3-lr-2/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "March 12, 2021"
+    } ,
+  
+    {
+
+      "title"    : "Второй семестр, ЛР №1",
+      "url"      : "/web-portfolio//sem-3-lr-1/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "March  5, 2021"
+    } 
+  
+]
