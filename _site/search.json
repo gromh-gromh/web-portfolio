@@ -2,272 +2,380 @@
   
     {
 
-      "title"    : "Седьмой семестр, ЛР №2",
-      "url"      : "/year-4-course-work//sem-7-lr-2/",
+      "title"    : "Курсовая работа",
+      "url"      : "/year-4-course-work//3rd-year-course-work/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "May 15, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Сети и телекоммуникации",
+      "url"      : "/year-4-course-work//networks-and-telecommunications/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "May 14, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Основы бизнес информатики",
+      "url"      : "/year-4-course-work//applied-it/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "May 13, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Основы бизнес информатики",
+      "url"      : "/year-4-course-work//business-informatics/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "May 12, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Курсовая работа",
+      "url"      : "/year-4-course-work//2nd-year-course-work/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "May 12, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Математические основы компьютерной графики",
+      "url"      : "/year-4-course-work//cgi-math/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "May 11, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Физика",
+      "url"      : "/year-4-course-work//physics/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "May 11, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Корпоративное обучение",
+      "url"      : "/year-4-course-work//corporate-education/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "May 10, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Технологии компьютерного моделирования, четвертый семестр",
+      "url"      : "/year-4-course-work//computer-modeling-tech-4-sem/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "May 10, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Информационные технологии в изучении иностранных языков",
+      "url"      : "/year-4-course-work//in-in-foreign-languages/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "May  9, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Технологии компьютерного моделирования, третий семестр",
+      "url"      : "/year-4-course-work//computer-modeling-tech-3-sem/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "May  9, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Курсовая работа",
+      "url"      : "/year-4-course-work//1st-year-course-work/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "May  9, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Издательские системы",
+      "url"      : "/year-4-course-work//publishing-systems/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "May  8, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Операционные системы",
+      "url"      : "/year-4-course-work//operating-systems/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "May  8, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Алгоритмы и решение задач",
+      "url"      : "/year-4-course-work//algorithms/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "May  8, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Защита информации",
+      "url"      : "/year-4-course-work//cyber-security/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "May  7, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Data Science",
+      "url"      : "/year-4-course-work//data-science/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "May  7, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Информационные технологии",
+      "url"      : "/year-4-course-work//it/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "May  7, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Визуализация данных",
+      "url"      : "/year-4-course-work//data-visualization/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "May  6, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Вычислительная математика",
+      "url"      : "/year-4-course-work//computational-math/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "May  6, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Информационные технологии в физике",
+      "url"      : "/year-4-course-work//it-in-physics/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "May  6, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Информационные технологии оценки персонала",
+      "url"      : "/year-4-course-work//scientific-research-project/",
       "category" : "",
       "year"     : "4",
-      "date"     : "December  7, 2023"
+      "date"     : "May  5, 2024"
     } ,
   
     {
 
-      "title"    : "Седьмой семестр, ЛР №1",
-      "url"      : "/year-4-course-work//sem-7-lr-1/",
+      "title"    : "Бизнес аналитика",
+      "url"      : "/year-4-course-work//business-analytics/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "May  5, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Вычислительная техника",
+      "url"      : "/year-4-course-work//computer-engineering/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "May  5, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Информационные технологии в математике",
+      "url"      : "/year-4-course-work//it-in-math/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "May  5, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Информационные технологии оценки персонала",
+      "url"      : "/year-4-course-work//it-personnel-assessment/",
       "category" : "",
       "year"     : "4",
-      "date"     : "October  1, 2023"
+      "date"     : "May  4, 2024"
     } ,
   
     {
 
-      "title"    : "Шестой семестр, ЛР №3",
-      "url"      : "/year-4-course-work//sem-6-lr-3/",
+      "title"    : "Английский",
+      "url"      : "/year-4-course-work//english/",
       "category" : "",
       "year"     : "3",
-      "date"     : "June 12, 2023"
+      "date"     : "May  4, 2024"
     } ,
   
     {
 
-      "title"    : "Шестой семестр, ЛР №1 и №2",
-      "url"      : "/year-4-course-work//sem-6-lr-1-2/",
-      "category" : "",
-      "year"     : "3",
-      "date"     : "June 10, 2023"
-    } ,
-  
-    {
-
-      "title"    : "Шестой семестр, презентация на тему &quot;Корутины в Python&quot;",
-      "url"      : "/year-4-course-work//sem-6-corutines-presentation/",
-      "category" : "",
-      "year"     : "3",
-      "date"     : "May 19, 2023"
-    } ,
-  
-    {
-
-      "title"    : "Пятый семестр, ЛР №10",
-      "url"      : "/year-4-course-work//sem-5-lr-10/",
-      "category" : "",
-      "year"     : "3",
-      "date"     : "December 22, 2022"
-    } ,
-  
-    {
-
-      "title"    : "Пятый семестр, ЛР №9",
-      "url"      : "/year-4-course-work//sem-5-lr-9/",
-      "category" : "",
-      "year"     : "3",
-      "date"     : "December 21, 2022"
-    } ,
-  
-    {
-
-      "title"    : "Пятый семестр, ЛР №8",
-      "url"      : "/year-4-course-work//sem-5-lr-8/",
-      "category" : "",
-      "year"     : "3",
-      "date"     : "December 15, 2022"
-    } ,
-  
-    {
-
-      "title"    : "Пятый семестр, ЛР №7",
-      "url"      : "/year-4-course-work//sem-5-lr-7/",
-      "category" : "",
-      "year"     : "3",
-      "date"     : "December  7, 2022"
-    } ,
-  
-    {
-
-      "title"    : "Пятый семестр, ЛР №6",
-      "url"      : "/year-4-course-work//sem-5-lr-6/",
-      "category" : "",
-      "year"     : "3",
-      "date"     : "October 27, 2022"
-    } ,
-  
-    {
-
-      "title"    : "Пятый семестр, ЛР №5",
-      "url"      : "/year-4-course-work//sem-5-lr-5/",
-      "category" : "",
-      "year"     : "3",
-      "date"     : "October 21, 2022"
-    } ,
-  
-    {
-
-      "title"    : "Пятый семестр, ЛР №4",
-      "url"      : "/year-4-course-work//sem-5-lr-4/",
-      "category" : "",
-      "year"     : "3",
-      "date"     : "October 15, 2022"
-    } ,
-  
-    {
-
-      "title"    : "Пятый семестр, презентация на тему &quot;Паттерн Абстрактная Фабрика&quot;",
-      "url"      : "/year-4-course-work//sem-5-abstract-factory-presentation/",
-      "category" : "",
-      "year"     : "3",
-      "date"     : "October 10, 2022"
-    } ,
-  
-    {
-
-      "title"    : "Пятый семестр, ЛР №3",
-      "url"      : "/year-4-course-work//sem-5-lr-3/",
-      "category" : "",
-      "year"     : "3",
-      "date"     : "October  3, 2022"
-    } ,
-  
-    {
-
-      "title"    : "Пятый семестр, ЛР №2",
-      "url"      : "/year-4-course-work//sem-5-lr-2/",
-      "category" : "",
-      "year"     : "3",
-      "date"     : "September 29, 2022"
-    } ,
-  
-    {
-
-      "title"    : "Четвертый семестр, ЛР №3",
-      "url"      : "/year-4-course-work//sem-4-lr-3/",
+      "title"    : "Базы данных",
+      "url"      : "/year-4-course-work//data-bases/",
       "category" : "",
       "year"     : "2",
-      "date"     : "June 12, 2022"
+      "date"     : "May  4, 2024"
     } ,
   
     {
 
-      "title"    : "Четвертый семестр, ЛР №2.1",
-      "url"      : "/year-4-course-work//sem-4-lr-2.1/",
-      "category" : "",
-      "year"     : "2",
-      "date"     : "June  6, 2022"
-    } ,
-  
-    {
-
-      "title"    : "Четвертый семестр, ЛР №2",
-      "url"      : "/year-4-course-work//sem-4-lr-2/",
-      "category" : "",
-      "year"     : "2",
-      "date"     : "May 13, 2022"
-    } ,
-  
-    {
-
-      "title"    : "Четвертый семестр, ЛР №1",
-      "url"      : "/year-4-course-work//sem-4-lr-1/",
-      "category" : "",
-      "year"     : "2",
-      "date"     : "February 14, 2022"
-    } ,
-  
-    {
-
-      "title"    : "Третий семестр, Результат выполнения всех ЛР",
-      "url"      : "/year-4-course-work//sem-3-all/",
-      "category" : "",
-      "year"     : "2",
-      "date"     : "November 27, 2021"
-    } ,
-  
-    {
-
-      "title"    : "Третий семестр, ЛР №3",
-      "url"      : "/year-4-course-work//sem-3-lr-3/",
-      "category" : "",
-      "year"     : "2",
-      "date"     : "November 25, 2021"
-    } ,
-  
-    {
-
-      "title"    : "Третий семестр, ЛР №2",
-      "url"      : "/year-4-course-work//sem-3-lr-2/",
-      "category" : "",
-      "year"     : "2",
-      "date"     : "October 21, 2021"
-    } ,
-  
-    {
-
-      "title"    : "Третий семестр, ЛР №1",
-      "url"      : "/year-4-course-work//sem-3-lr-1/",
-      "category" : "",
-      "year"     : "2",
-      "date"     : "September 30, 2021"
-    } ,
-  
-    {
-
-      "title"    : "Второй семестр, ЛР №7",
-      "url"      : "/year-4-course-work//sem-3-lr-7/",
+      "title"    : "Основы компьютерной алгебры",
+      "url"      : "/year-4-course-work//computational-algebra/",
       "category" : "",
       "year"     : "1",
-      "date"     : "May 17, 2021"
+      "date"     : "May  4, 2024"
     } ,
   
     {
 
-      "title"    : "Второй семестр, ЛР №6",
-      "url"      : "/year-4-course-work//sem-3-lr-6/",
+      "title"    : "Английский язык",
+      "url"      : "/year-4-course-work//english/",
       "category" : "",
-      "year"     : "1",
-      "date"     : "May 10, 2021"
+      "year"     : "4",
+      "date"     : "May  3, 2024"
     } ,
   
     {
 
-      "title"    : "Второй семестр, ЛР №5",
-      "url"      : "/year-4-course-work//sem-3-lr-5/",
+      "title"    : "1C",
+      "url"      : "/year-4-course-work//1c/",
       "category" : "",
-      "year"     : "1",
-      "date"     : "April 19, 2021"
+      "year"     : "3",
+      "date"     : "May  3, 2024"
     } ,
   
     {
 
-      "title"    : "Второй семестр, ЛР №4",
-      "url"      : "/year-4-course-work//sem-3-lr-4/",
+      "title"    : "Анализ данных",
+      "url"      : "/year-4-course-work//data-analysis/",
       "category" : "",
-      "year"     : "1",
-      "date"     : "April 10, 2021"
+      "year"     : "2",
+      "date"     : "May  3, 2024"
     } ,
   
     {
 
-      "title"    : "Второй семестр, ЛР №3",
-      "url"      : "/year-4-course-work//sem-3-lr-3/",
+      "title"    : "Информатика",
+      "url"      : "/year-4-course-work//informatics/",
       "category" : "",
       "year"     : "1",
-      "date"     : "April  4, 2021"
+      "date"     : "May  3, 2024"
     } ,
   
     {
 
-      "title"    : "Второй семестр, ЛР №2",
-      "url"      : "/year-4-course-work//sem-3-lr-2/",
+      "title"    : "IT Рекрутмент",
+      "url"      : "/year-4-course-work//it-recruitment/",
       "category" : "",
-      "year"     : "1",
-      "date"     : "March 12, 2021"
+      "year"     : "4",
+      "date"     : "May  2, 2024"
     } ,
   
     {
 
-      "title"    : "Второй семестр, ЛР №1",
-      "url"      : "/year-4-course-work//sem-3-lr-1/",
+      "title"    : "Программирование, пятый семестр",
+      "url"      : "/year-4-course-work//programming-6-sem/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "May  2, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Программирование, четвертый семестр",
+      "url"      : "/year-4-course-work//programming-4-sem/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "May  2, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Физика",
+      "url"      : "/year-4-course-work//physics/",
       "category" : "",
       "year"     : "1",
-      "date"     : "March  5, 2021"
+      "date"     : "May  2, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Дискретная математика",
+      "url"      : "/year-4-course-work//discrete-math/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "May  2, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Программирование",
+      "url"      : "/year-4-course-work//programming-7-sem/",
+      "category" : "",
+      "year"     : "4",
+      "date"     : "May  1, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Программирование, пятый семестр",
+      "url"      : "/year-4-course-work//programming-5-sem/",
+      "category" : "",
+      "year"     : "3",
+      "date"     : "May  1, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Программирование, третий семестр",
+      "url"      : "/year-4-course-work//programming-3-sem/",
+      "category" : "",
+      "year"     : "2",
+      "date"     : "May  1, 2024"
+    } ,
+  
+    {
+
+      "title"    : "Программирование",
+      "url"      : "/year-4-course-work//programming-2-sem/",
+      "category" : "",
+      "year"     : "1",
+      "date"     : "May  1, 2024"
     } 
   
 ]
